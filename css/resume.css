@@ -82,7 +82,6 @@ p.lead {
 .dev-icons .list-inline-item i:hover {
   color: #BD5D38;
 }
-
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: 0.05rem;
@@ -148,7 +147,6 @@ p.lead {
     display: block;
   }
 }
-
 section.resume-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
@@ -174,7 +172,6 @@ section.resume-section .resume-item .resume-date {
     padding-bottom: 3rem !important;
   }
 }
-
 .bg-primary {
   background-color: #BD5D38 !important;
 }

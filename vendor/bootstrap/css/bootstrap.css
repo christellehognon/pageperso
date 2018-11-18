@@ -9026,5 +9026,10 @@ a.text-dark:hover, a.text-dark:focus {
     color: inherit;
     border-color: #dee2e6;
   }
+  #projects {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
 }
 /*# sourceMappingURL=bootstrap.css.map */
