@@ -16,8 +16,7 @@
 h1,h2,h3,h4,h5,h6 {
  font-family:'Saira Extra Condensed',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
  font-weight:700;
- text-transform:uppercase;
- color:#343a40
+ color:#343a40;
 }
 h1 {
  font-size:6rem;
@@ -34,7 +33,6 @@ p.lead {
  font-weight:400
 }
 .subheading {
- text-transform:uppercase;
  font-weight:500;
  font-family:'Saira Extra Condensed',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
  font-size:1.5rem
@@ -55,7 +53,7 @@ p.lead {
  margin-right:0
 }
 .social-icons a:hover {
- background-color:#4ceeee
+ background-color:#21D7DE
 }
 .dev-icons {
  font-size:3rem
@@ -66,7 +64,7 @@ p.lead {
 #sideNav .navbar-nav .nav-item .nav-link {
  font-weight:800;
  letter-spacing:.05rem;
- text-transform:uppercase
+ text-transform:uppercase;
 }
 #sideNav .navbar-toggler:focus {
  outline-color:#d48a6e
@@ -149,14 +147,17 @@ section.resume-section .resume-item .resume-date {
  }
 }
 .bg-primary {
- background-color:#4ceeee!important
+ background-color:#21D7DE!important
 }
 .text-primary {
  color:#848686!important
 }
 a {
- color:#4ceeee
+ color:#21D7DE
 }
 a:active,a:focus,a:hover {
  color:#848686
+}
+#projects li{
+  list-style: none;
 }
