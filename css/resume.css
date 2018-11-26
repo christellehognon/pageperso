@@ -80,7 +80,8 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #BD5D38;
+  color: #848686;
+  font-size: 10px;
 }
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
