@@ -40,10 +40,6 @@ figure {
 figure > p{
   margin-bottom: 5px;
 }
-
-figure > p > img {
-  width: 450px;
-}
 figcaption{
   text-align: center;
 }
