@@ -1,0 +1,1 @@
+Redirect 301 https://christellehognon.github.io/pageperso/  https://www.christellehognon.github.io/pageperso.html
