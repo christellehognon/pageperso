@@ -148,14 +148,13 @@ p.lead {
     display: block;
   }
 }
+.copyright a{
+  color: #BD5D38;
+}
 section.resume-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
   max-width: 75rem;
-}
-
-section.resume-section .resume-item .resume-date {
-  min-width: none;
 }
 
 @media (min-width: 768px) {
